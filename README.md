@@ -1,15 +1,18 @@
 # McDonald-s-Sales-Dashboard---Adv-Ms-Excel
 The goal of this project is to create an interactive and dynamic Excel dashboard using McDonald's sales data to analyze key aspects of sales performance, item popularity, customer preferences, and time-based trends. The dashboard will provide actionable insights and allow for easy data exploration to assist in decision-making.
 
-#McDonald's Sales
+McDonald's Sales 
+
 Create an interactive and dynamic dashboard in Excel using the McDonald's sales dataset to analyze various aspects of sales performance, item popularity, customer preferences, and time-based trends. The dashboard should provide actionable insights and allow for easy data exploration.
 
-Dataset Link:
+Dataset Link: 
+
 https://drive.google.com/drive/folders/1raeubcRpUisUUuDyY6ezvfc7VHHydpoV
 
 Before performing analysis, check for duplicates and in case of null values, utilize forward/backward fill.
 
-Questions:
+Questions: 
+
 What is the total sales revenue for each category of menu items?
 How many orders are placed each day?
 Which menu item is the most frequently ordered?
